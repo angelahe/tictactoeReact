@@ -52,3 +52,7 @@ export class ClassInput extends Component {
 }
 
 ## dev tools
+
+to read:
+react optimizing performance link:
+https://reactjs.org/docs/optimizing-performance.html#examples
